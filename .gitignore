@@ -1,0 +1,19 @@
+# pytnon
+venv/
+.venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# cpp
+/build/
+/CMakeUserPresets.json
+.cmake/
+
+*.exe
+*.out
+*.o
+*.obj
